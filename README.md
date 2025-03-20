@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shinjuuichi. You can also call me Shin</h1>
-<h3 align="center">🚀 Passionate .NET Backend Developer from Vietnam</h3>
+<h3 align="center">🚀 .NET Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shinjuuichi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
