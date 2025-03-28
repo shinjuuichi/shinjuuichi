@@ -38,7 +38,7 @@
 
 #### Frontend Flair
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,mui" />
 </p>
 
 #### Mobile Magic
