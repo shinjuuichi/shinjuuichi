@@ -33,7 +33,7 @@
 
 #### Backend Vibes
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java" />
+  <img src="https://skillicons.dev/icons?i=nestjs,java" />
 </p>
 
 #### Frontend Flair
@@ -48,7 +48,7 @@
 
 #### Data Mastery
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,mssql" />
 </p>
 
 #### DevOps & Tools
