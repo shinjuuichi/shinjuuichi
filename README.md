@@ -33,7 +33,7 @@
 
 #### Backend Vibes
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,java" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,java" />
 </p>
 
 #### Frontend Flair
