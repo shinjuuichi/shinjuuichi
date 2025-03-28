@@ -48,7 +48,7 @@
 
 #### Data Mastery
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,mssql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
 </p>
 
 #### DevOps & Tools
