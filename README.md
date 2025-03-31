@@ -10,7 +10,7 @@
 
 ### 🌟 Who Am I?
 
-👋 Hey! I’m **Shinjuuichi** (call me **Shin**), a **.NET Backend Developer** with a passion for crafting **scalable**, **high-performance** solutions. I live for **clean code**, love tinkering with **new tech**, and occasionally dive into **game dev** with **Unity**. Let’s build something epic together!
+👋 Hey! I’m **Shinjuuichi** (call me **Shin**), a **"Fun Stack" Developer** with a passion for crafting **scalable**, **high-performance** solutions. I live for **clean code**, love tinkering with **new tech**, and occasionally dive into **game dev** with **Unity**. Let’s build something epic together!
 
 ---
 
