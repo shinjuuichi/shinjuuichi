@@ -28,7 +28,8 @@
 
 #### Core Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a8/Microsoft_SQL_Server_Logo.svg" width="48" />
 </p>
 
 #### Backend Vibes
