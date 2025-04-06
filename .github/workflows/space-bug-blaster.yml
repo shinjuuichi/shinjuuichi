@@ -1,0 +1,86 @@
+name: Space Bug Blaster
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch: # Manual trigger option
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Initialize or Load Game State
+        run: |
+          if [ ! -f game-state.txt ]; then
+            echo "bugs_blasted=0" > game-state.txt
+            echo "health=100" >> game-state.txt
+          fi
+          source game-state.txt
+
+      - name: Play Turn
+        run: |
+          source game-state.txt
+          
+          # Random outcome: blast a bug or take damage
+          if [ $((RANDOM % 2)) -eq 0 ]; then
+            bugs_blasted=$((bugs_blasted + 1))
+            echo "Shinjuuichi blasted a space bug!"
+          else
+            health=$((health - 25))
+            echo "A space bug hit the ship!"
+          fi
+          
+          # Game over check
+          if [ $health -le 0 ]; then
+            echo "Game Over! Final Bugs Blasted: $bugs_blasted"
+            bugs_blasted=0
+            health=100
+          fi
+          
+          # Save new state
+          echo "bugs_blasted=$bugs_blasted" > game-state.txt
+          echo "health=$health" >> game-state.txt
+
+      - name: Generate Visual Game State (SVG)
+        run: |
+          source game-state.txt
+          # Create a simple SVG with spaceship, bug count, and health bar
+          cat <<EOF > game-state.svg
+          <svg width="300" height="150" xmlns="http://www.w3.org/2000/svg">
+            <!-- Background -->
+            <rect width="100%" height="100%" fill="#1a1a2e"/>
+            
+            <!-- Spaceship (simple triangle) -->
+            <polygon points="20,100 40,80 60,100" fill="#00ffcc"/>
+            
+            <!-- Bugs Blasted Counter -->
+            <text x="80" y="30" fill="#ffffff" font-size="20">Bugs Blasted: $bugs_blasted</text>
+            
+            <!-- Health Bar -->
+            <rect x="80" y="50" width="200" height="20" fill="#gray"/>
+            <rect x="80" y="50" width="$((health * 2))" height="20" fill="#ff4444"/>
+            <text x="80" y="90" fill="#ffffff" font-size="20">Health: $health%</text>
+          </svg>
+          EOF
+
+      - name: Update README
+        run: |
+          source game-state.txt
+          cat <<EOF > README.md
+          # Shinjuuichi's Space Bug Blaster
+          ![Game State](game-state.svg)
+          
+          **Bugs Blasted:** $bugs_blasted | **Health:** $health%
+          *Last Updated: $(date)*
+          EOF
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add game-state.txt game-state.svg README.md
+          git commit -m "Update Space Bug Blaster Game" || echo "No changes to commit"
+          git push
