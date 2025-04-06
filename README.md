@@ -80,7 +80,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shinjuuichi&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinjuuichi&theme=midnight-purple&hide_border=true" alt="GitHub Streak" width="45%" />
-    <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinjuuichi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
+    <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinjuuichi&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 
 </p>
 
