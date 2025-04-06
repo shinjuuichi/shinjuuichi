@@ -79,8 +79,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "sinlthai570@gmail.com"
+          git config --local user.name "Shinjuuichi"
           git add game-state.txt game-state.svg README.md
           git commit -m "Update Space Bug Blaster Game" || echo "No changes to commit"
           git push
