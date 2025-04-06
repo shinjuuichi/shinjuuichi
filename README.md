@@ -39,7 +39,7 @@
 #### Core Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
 </p>
 
 
