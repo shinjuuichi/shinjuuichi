@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT  }}
 
       - name: Initialize or Load Game State
         run: |
@@ -72,9 +72,11 @@ jobs:
           EOF
 
       - name: Commit and Push Changes
+        env:
+            PAT: ${{ secrets.PAT }}
         run: |
-          git config --local user.email "sinlthai570@gmail.com"
-          git config --local user.name "Shinjuuichi"
-          git add game-state.txt game-state.svg README.md
-          git commit -m "Update Space Bug Blaster Game" || echo "No changes to commit"
-          git push
+            git config --local user.email "sinlthai570@gmail.com"
+            git config --local user.name "Shinjuuichi"
+            git add game-state.txt game-state.svg README.md
+            git commit -m "Update Space Bug Blaster Game" || echo "No changes to commit"
+            git push https://$PAT@github.com/shinjuuichi/shinjuuichi.git
