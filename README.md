@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Welcome GIF" width="50%" height="350px" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Shinjuuichi!;aka+Shin+%7C+.NET+Developer;Let’s+build+epic+things!&repeat=true" alt="Typing SVG" />
 </p>
 
