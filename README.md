@@ -18,7 +18,7 @@
 
 ---
 
-### 🌐 Let’s Connect
+### 🌐 Connect to Shin
 
 <p align="center">
   <a href="https://fb.com/shinjuuichi" target="_blank">
