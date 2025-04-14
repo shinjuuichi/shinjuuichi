@@ -63,7 +63,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
 </p>
 
-#### DevOps & Tools
+#### Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,postman,rabbitmq,vite,androidstudio,vscode,visualstudio,github,gitlab" />
 </p>
