@@ -63,9 +63,9 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
 </p>
 
-#### Tools
+### Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,postman,rabbitmq,vite,androidstudio,vscode,visualstudio,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,postman,rabbitmq,androidstudio,vscode,visualstudio,git,github,gitlab" />
 </p>
 
 #### Game Dev Fun
