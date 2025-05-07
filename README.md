@@ -38,62 +38,95 @@
 
 #### Core Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  </a>
 </p>
 
-
-#### Backend Vibes
+#### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,java" />
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
+  </a>
 </p>
 
-#### Frontend Flair
+#### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,mui,nextjs," />
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  </a>
+  <a href="https://www.w3.org/TR/html52/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" />
+  </a>
 </p>
 
-#### Mobile Magic
+#### Database & caching
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" />
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />
+  </a>
 </p>
 
-#### Data Mastery
+#### My DevOps & Development Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-</p>
-
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,postman,rabbitmq,androidstudio,vscode,visualstudio,git,github,gitlab" />
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
 </p>
 
 #### Game Dev Fun
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity" />
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
+  </a>
 </p>
-
 ---
 
 ### 📈 My Coding Journey
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shinjuuichi&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinjuuichi&theme=midnight-purple&hide_border=true" alt="GitHub Streak" width="45%" />
     <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinjuuichi&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 
 </p>
 
-
----
-
-### 🎉 Random Tidbit
-
-🎮 When I’m not slinging code, I’m probably lost in **Unity** or chasing the next big tech trend. Coding is my art, and I’m here to create masterpieces!
-
----
-
 <p align="center">
-  ✨ **"Code is poetry. Let’s write something beautiful."** ✨  
+  ✨ **"If it work, don't touch it"** ✨  
   <i>Check out my repos and let’s collaborate!</i>
 </p>
