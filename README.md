@@ -91,13 +91,10 @@
   </a>
 </p>
 
-#### My DevOps & Development Stack
+#### My Development Stack
 <p align="center">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" />
