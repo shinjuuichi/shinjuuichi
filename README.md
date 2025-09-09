@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ My Tech Arsenal
+### 🛠️ My Tech
 
 #### Core Skills
 <p align="center">
@@ -128,3 +128,4 @@
   ✨ **"If it work, don't touch it"** ✨  
   <i>Check out my repos and let’s collaborate!</i>
 </p>
+
