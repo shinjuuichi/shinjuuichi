@@ -106,13 +106,6 @@
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </a>
 </p>
-
-#### Game Dev Fun
-<p align="center">
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
-  </a>
-</p>
 ---
 
 ### 📈 My Coding Journey
@@ -128,4 +121,5 @@
   ✨ **"If it work, don't touch it"** ✨  
   <i>Check out my repos and let’s collaborate!</i>
 </p>
+
 
