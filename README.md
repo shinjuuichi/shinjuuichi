@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Shinjuuichi!;aka+Shin+%7C+Fun Stack+Developer;&repeat=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Shinjuuichi!;aka+Shin+%7C+FunStack+Developer;&repeat=true" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -121,6 +121,7 @@
   ✨ **"If it work, don't touch it"** ✨  
   <i>Check out my repos and let’s collaborate!</i>
 </p>
+
 
 
 
